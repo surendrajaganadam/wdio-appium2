@@ -17,8 +17,8 @@ jobs:
 
         - name: 🧪 Test
           env:
-          browserstack_user: ${{ secrets.BROWSERSTACK_USER }},
-          browserstack_key: ${{ secrets.BROWSERSTACK_KEY }}
+            browserstack_user: ${{ secrets.BROWSERSTACK_USER }}
+            browserstack_key: ${{ secrets.BROWSERSTACK_KEY }}
           run: npx wdio run test/config/wdio.androidbs.conf.js   
 
         - name: 📦 Upload Logs
