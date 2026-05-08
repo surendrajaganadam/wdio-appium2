@@ -1,0 +1,1145 @@
+2026-05-08T05:26:45.537Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"13","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:appActivity":"com.swaglabsmobileapp.MainActivity","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:26:45.538Z CLI info    Should start debug utility: undefined
+2026-05-08T05:26:45.539Z CLI info [testhub:module]   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  Starting testhub from 9842:0
+2026-05-08T05:26:45.539Z CLI info   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:26:45.541Z CLI info   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:26:45.700Z CLI info   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:26:45.700Z CLI info   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:26:45.701Z CLI info   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:26:46.399Z CLI info [testhub:module]   [492fcdf8-dc46-412c-b68d-b298ed5f080e]  startBuild: response=qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j
+2026-05-08T05:26:46.401Z CLI info  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:26:47.925Z CLI info [sdk:service]  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:28:48.670Z CLI info  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:28:48.685Z CLI info  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:28:49.818Z CLI info [testhub:module]  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  stopBuild: qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j request={"finished_at":"2026-05-08T05:28:48.669Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:28:49.821Z CLI info  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:28:50.111Z CLI info [TEST REPORTING AND ANALYTICS:module]  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  Visit https://automation.browserstack.com/builds/qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:28:50.116Z CLI info [main]  [qj5jexlw1re40czthnpqdyrb256d18a7dcb5e51j]  [492fcdf8-dc46-412c-b68d-b298ed5f080e]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:31:37.468Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"13","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:appActivity":"com.swaglabsmobileapp.MainActivity","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:31:37.469Z CLI info    Should start debug utility: undefined
+2026-05-08T05:31:37.470Z CLI info [testhub:module]   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  Starting testhub from 10311:0
+2026-05-08T05:31:37.471Z CLI info   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:31:37.472Z CLI info   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:31:37.643Z CLI info   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:31:37.644Z CLI info   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:31:37.644Z CLI info   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:31:38.295Z CLI info [testhub:module]   [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  startBuild: response=r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu
+2026-05-08T05:31:38.297Z CLI info  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:31:40.029Z CLI info [sdk:service]  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:33:40.711Z CLI info  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:33:40.737Z CLI info  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:33:41.867Z CLI info [testhub:module]  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  stopBuild: r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu request={"finished_at":"2026-05-08T05:33:40.708Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:33:41.869Z CLI info  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:33:42.155Z CLI info [TEST REPORTING AND ANALYTICS:module]  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  Visit https://automation.browserstack.com/builds/r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:33:42.164Z CLI info [main]  [r01pogcg8vczhlbkttsadlmkg78ret4zhy4p9kcu]  [df5f5d47-b42a-4c2c-8dcf-c2de0f7c9b28]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:34:03.257Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"13","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:appActivity":"com.swaglabsmobileapp.MainActivity","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:34:03.257Z CLI info    Should start debug utility: undefined
+2026-05-08T05:34:03.258Z CLI info [testhub:module]   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  Starting testhub from 10589:0
+2026-05-08T05:34:03.259Z CLI info   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:34:03.261Z CLI info   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:34:03.427Z CLI info   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:34:03.428Z CLI info   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:34:03.428Z CLI info   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:34:03.964Z CLI info [testhub:module]   [6beab650-9062-4f92-adcb-7cb9a06e0d16]  startBuild: response=2lo23musfoplmjfre4yxauglncm7giessmadnynr
+2026-05-08T05:34:03.964Z CLI info  [2lo23musfoplmjfre4yxauglncm7giessmadnynr]  [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:34:05.802Z CLI info [sdk:service]  [2lo23musfoplmjfre4yxauglncm7giessmadnynr]  [6beab650-9062-4f92-adcb-7cb9a06e0d16]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:35:10.377Z CLI info [main]  [2lo23musfoplmjfre4yxauglncm7giessmadnynr]  [6beab650-9062-4f92-adcb-7cb9a06e0d16]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-08T05:35:10.388Z CLI info  [2lo23musfoplmjfre4yxauglncm7giessmadnynr]  [6beab650-9062-4f92-adcb-7cb9a06e0d16]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:35:11.910Z CLI info [testhub:module]  [2lo23musfoplmjfre4yxauglncm7giessmadnynr]  [6beab650-9062-4f92-adcb-7cb9a06e0d16]  stopBuild: 2lo23musfoplmjfre4yxauglncm7giessmadnynr request={"finished_at":"2026-05-08T05:35:10.384Z","finished_metadata":[{"reason":"signal_termination","signal":"SIGINT"}],"custom_metadata":null} response={"data":""}
+2026-05-08T05:35:16.600Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"13","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:appActivity":"com.swaglabsmobileapp.MainActivity","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:35:16.603Z CLI info    Should start debug utility: undefined
+2026-05-08T05:35:16.605Z CLI info [testhub:module]   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  Starting testhub from 10799:0
+2026-05-08T05:35:16.606Z CLI info   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:35:16.608Z CLI info   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:35:16.791Z CLI info   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:35:16.791Z CLI info   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:35:16.792Z CLI info   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:35:17.271Z CLI info [testhub:module]   [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  startBuild: response=cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz
+2026-05-08T05:35:17.272Z CLI info  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:35:19.193Z CLI info [sdk:service]  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:37:19.834Z CLI info  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:37:19.849Z CLI info  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:37:23.242Z CLI info [testhub:module]  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  stopBuild: cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz request={"finished_at":"2026-05-08T05:37:19.833Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:37:23.243Z CLI info  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:37:23.561Z CLI info [TEST REPORTING AND ANALYTICS:module]  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  Visit https://automation.browserstack.com/builds/cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:37:23.567Z CLI info [main]  [cxhuruziyzhtdhctbs96m0jymmuldxpx05s4qiqz]  [bf62f7d9-cbcf-4aa9-a733-ae9fdd89ae22]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:39:40.947Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 3","appium:platformVersion":"13","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:appActivity":"com.swaglabsmobileapp.MainActivity","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:39:40.949Z CLI info    Should start debug utility: undefined
+2026-05-08T05:39:40.950Z CLI info [testhub:module]   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  Starting testhub from 11280:0
+2026-05-08T05:39:40.951Z CLI info   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:39:40.953Z CLI info   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:39:41.127Z CLI info   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:39:41.128Z CLI info   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:39:41.128Z CLI info   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:39:41.730Z CLI info [testhub:module]   [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  startBuild: response=nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0
+2026-05-08T05:39:41.733Z CLI info  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:39:44.857Z CLI info [sdk:service]  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:39:52.606Z CLI info  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:39:52.610Z CLI info  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:39:53.742Z CLI info [testhub:module]  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  stopBuild: nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0 request={"finished_at":"2026-05-08T05:39:52.605Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:39:53.744Z CLI info  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:39:54.027Z CLI info [TEST REPORTING AND ANALYTICS:module]  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  Visit https://automation.browserstack.com/builds/nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0 to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:39:54.030Z CLI info [main]  [nnmyznso7w0gbojask79rjhlyzjz3lonjnngz1g0]  [c0385225-32e0-4f6d-a659-d0e5c0cd699e]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:42:04.526Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 3","appium:platformVersion":"13","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:appActivity":"com.swaglabsmobileapp.MainActivity","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:42:04.528Z CLI info    Should start debug utility: undefined
+2026-05-08T05:42:04.529Z CLI info [testhub:module]   [78540655-539a-41e3-8409-37573081c435]  Starting testhub from 12195:0
+2026-05-08T05:42:04.531Z CLI info   [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:42:04.534Z CLI info   [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:42:04.749Z CLI info   [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:42:04.749Z CLI info   [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:42:04.750Z CLI info   [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:42:05.140Z CLI info [testhub:module]   [78540655-539a-41e3-8409-37573081c435]  startBuild: response=tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx
+2026-05-08T05:42:05.142Z CLI info  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:42:07.315Z CLI info [sdk:service]  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:42:14.530Z CLI info  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:42:14.536Z CLI info  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:42:15.662Z CLI info [testhub:module]  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  stopBuild: tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx request={"finished_at":"2026-05-08T05:42:14.530Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:42:15.664Z CLI info  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:42:15.945Z CLI info [TEST REPORTING AND ANALYTICS:module]  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  Visit https://automation.browserstack.com/builds/tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:42:15.949Z CLI info [main]  [tmzv04vt7yfwbpmtt2bkvbcqzep03fy6ouna3hwx]  [78540655-539a-41e3-8409-37573081c435]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:43:16.347Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 3","appium:platformVersion":"13","appium:app":"bs://2713c1674f58f9c57f245442ced30f7cf27c2159","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:43:16.349Z CLI info    Should start debug utility: undefined
+2026-05-08T05:43:16.350Z CLI info [testhub:module]   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  Starting testhub from 12481:0
+2026-05-08T05:43:16.351Z CLI info   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:43:16.353Z CLI info   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:43:16.543Z CLI info   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:43:16.544Z CLI info   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:43:16.544Z CLI info   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:43:17.992Z CLI info [testhub:module]   [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  startBuild: response=rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv
+2026-05-08T05:43:17.993Z CLI info  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:43:19.756Z CLI info [sdk:service]  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:43:26.522Z CLI info  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:43:26.527Z CLI info  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:43:27.589Z CLI info [testhub:module]  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  stopBuild: rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv request={"finished_at":"2026-05-08T05:43:26.521Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:43:27.593Z CLI info  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:43:27.913Z CLI info [TEST REPORTING AND ANALYTICS:module]  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  Visit https://automation.browserstack.com/builds/rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:43:27.917Z CLI info [main]  [rvjqmg9h95j2nkruckb70nsfur0onzobzmqvhmrv]  [ebefd527-0e5c-4b0e-974f-ec1e2d577f85]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:44:22.515Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Samsung Galaxy S22 Ultra","appium:platformVersion":"12.0","appium:app":"bs://2713c1674f58f9c57f245442ced30f7cf27c2159","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:44:22.516Z CLI info    Should start debug utility: undefined
+2026-05-08T05:44:22.517Z CLI info [testhub:module]   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Starting testhub from 12784:0
+2026-05-08T05:44:22.517Z CLI info   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:44:22.518Z CLI info   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:44:22.692Z CLI info   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:44:22.693Z CLI info   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:44:22.693Z CLI info   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:44:23.123Z CLI info [testhub:module]   [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  startBuild: response=ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo
+2026-05-08T05:44:23.125Z CLI info  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:44:24.156Z CLI info [sdk:service]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:44:41.157Z CLI info [testhub:request-queue-handler]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '66d5e835-964a-4a4b-b545-06b829046522',
+    integrations: { browserstack: [Object] }
+  }
+} to 12784:0
+2026-05-08T05:44:41.159Z CLI info [testhub:request-queue-handler]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Added the event {
+  event_type: 'TestRunStarted',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '66d5e835-964a-4a4b-b545-06b829046522',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-08T05:44:41.145Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: undefined,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 12784:0
+2026-05-08T05:44:43.133Z CLI info [testhub:request-queue-handler]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '66d5e835-964a-4a4b-b545-06b829046522',
+      integrations: {
+        browserstack: {
+          product: 'automate',
+          session_id: 'e55dc25c0c6cc1389fdd57419e6b5a14579aa34d',
+          capabilities: {
+            platform: 'LINUX',
+            webStorageEnabled: false,
+            takesScreenshot: true,
+            javascriptEnabled: true,
+            databaseEnabled: false,
+            networkConnectionEnabled: true,
+            locationContextEnabled: false,
+            warnings: {},
+            desired: {
+              platformName: 'Android',
+              'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+              'goog:chromeOptions': {},
+              newCommandTimeout: 0,
+              deviceName: 'Samsung Galaxy S22 Ultra',
+              chromedriverPorts: [ [ 18144, 18154 ] ],
+              automationName: 'UiAutomator2',
+              systemPort: 8204,
+              bundleID: 'demo.fun.com.apis',
+              bundleId: 'demo.fun.com.apis',
+              skipServerInstallation: true,
+              udid: 'R5CT31AHM8V',
+              appPackage: 'demo.fun.com.apis',
+              appActivity: 'demo.fun.com.apis.ApiDemos',
+              nativeWebScreenshot: true,
+              disableSuppressAccessibilityService: true
+            },
+            platformName: 'Android',
+            'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+            'goog:chromeOptions': {},
+            newCommandTimeout: 0,
+            deviceName: 'R5CT31AHM8V',
+            chromedriverPorts: [ [ 18144, 18154 ] ],
+            automationName: 'UiAutomator2',
+            systemPort: 8204,
+            bundleID: 'demo.fun.com.apis',
+            bundleId: 'demo.fun.com.apis',
+            skipServerInstallation: true,
+            udid: 'R5CT31AHM8V',
+            appPackage: 'demo.fun.com.apis',
+            appActivity: 'demo.fun.com.apis.ApiDemos',
+            nativeWebScreenshot: true,
+            disableSuppressAccessibilityService: true,
+            deviceUDID: 'R5CT31AHM8V',
+            deviceApiLevel: 31,
+            platformVersion: '12',
+            deviceScreenSize: '1080x2316',
+            deviceScreenDensity: 450,
+            deviceModel: 'SM-S908E',
+            deviceManufacturer: 'samsung',
+            pixelRatio: 2.8125,
+            statBarHeight: 75,
+            viewportRect: { left: 0, top: 75, width: 1080, height: 2031 }
+          },
+          platform: 'Android',
+          platform_version: '12',
+          browser: undefined,
+          browser_version: undefined
+        }
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '66d5e835-964a-4a4b-b545-06b829046522',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-08T05:44:41.145Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: undefined,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 12784:0
+2026-05-08T05:44:43.135Z CLI info  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T05:44:52.034Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.27.0","test_logs":[],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"66d5e835-964a-4a4b-b545-06b829046522","test_result":"failed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_name":"Swaglabs e2e scenario 111","test_code":"async () => {\n  await LoginPage.loginToApplication()\n\n   \n }","test_location":"test/specs/android/E2Eflow5.spec.js","test_scope":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_scopes":["Swaglabs Order placing flow 2"],"test_started_at":"2026-05-08T05:44:41.145Z","automate_session_name":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_failure":[{"backtrace":["Can't call setValue on element with selector \"//android.widget.EditText[@content-desc=\"test-Username\"]\" because element wasn't found","Error: Can't call setValue on element with selector \"//android.widget.EditText[@content-desc=\"test-Username\"]\" because element wasn't found\n    at async LoginPage.loginToApplication (file:///Users/lucky/Documents/WebDriverIO/scripts/wdio-appium2/test/pageobjects/android/login.page.js:16:2)\n    at async Context.<anonymous> (file:///Users/lucky/Documents/WebDriverIO/scripts/wdio-appium2/test/specs/android/E2Eflow5.spec.js:7:3)"]}],"test_failure_reason":"Can't call setValue on element with selector \"//android.widget.EditText[@content-desc=\"test-Username\"]\" because element wasn't found","test_failure_type":"UnhandledError","test_ended_at":"2026-05-08T05:44:51.958Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"failed","automate_session_reason":"Can't call setValue on element with selector \"//android.widget.EditText[@content-desc=\"test-Username\"]\" because element wasn't found","test_deferred":true,"logs":[]}
+2026-05-08T05:44:52.039Z CLI info [testhub:request-queue-handler]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Added the event {
+  event_type: 'TestRunFinished',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '66d5e835-964a-4a4b-b545-06b829046522',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'failed',
+    duration_in_ms: 10813,
+    started_at: '2026-05-08T05:44:41.145Z',
+    finished_at: '2026-05-08T05:44:51.958Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: `Can't call setValue on element with selector "//android.widget.EditText[@content-desc="test-Username"]" because element wasn't found`,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 12784:0
+2026-05-08T05:44:53.158Z CLI info [testhub:request-queue-handler]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '66d5e835-964a-4a4b-b545-06b829046522',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'failed',
+      duration_in_ms: 10813,
+      started_at: '2026-05-08T05:44:41.145Z',
+      finished_at: '2026-05-08T05:44:51.958Z',
+      failure: [
+        {
+          backtrace: [
+            `Can't call setValue on element with selector "//android.widget.EditText[@content-desc="test-Username"]" because element wasn't found`,
+            `Error: Can't call setValue on element with selector "//android.widget.EditText[@content-desc="test-Username"]" because element wasn't found\n` +
+              '    at async LoginPage.loginToApplication (file:///Users/lucky/Documents/WebDriverIO/scripts/wdio-appium2/test/pageobjects/android/login.page.js:16:2)\n' +
+              '    at async Context.<anonymous> (file:///Users/lucky/Documents/WebDriverIO/scripts/wdio-appium2/test/specs/android/E2Eflow5.spec.js:7:3)'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: `Can't call setValue on element with selector "//android.widget.EditText[@content-desc="test-Username"]" because element wasn't found`,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 12784:0
+2026-05-08T05:44:53.159Z CLI info  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T05:44:54.678Z CLI info  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:44:54.728Z CLI info  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:44:55.855Z CLI info [testhub:module]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  stopBuild: ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo request={"finished_at":"2026-05-08T05:44:54.676Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:44:55.857Z CLI info  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:44:56.162Z CLI info [TEST REPORTING AND ANALYTICS:module]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Visit https://automation.browserstack.com/builds/ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:44:56.168Z CLI info [main]  [ceqs8wx2mmdydpzjwsqmfsg4j5lc1uapr2tylalo]  [04c48780-1a9b-4c5a-887b-3cd0aa0e239b]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:46:58.300Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Samsung Galaxy S22 Ultra","appium:platformVersion":"12.0","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:46:58.301Z CLI info    Should start debug utility: undefined
+2026-05-08T05:46:58.301Z CLI info [testhub:module]   [1f3f618e-3754-4cd7-a519-27825186f2f0]  Starting testhub from 13089:0
+2026-05-08T05:46:58.302Z CLI info   [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:46:58.303Z CLI info   [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:46:58.474Z CLI info   [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:46:58.474Z CLI info   [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:46:58.475Z CLI info   [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:46:59.616Z CLI info [testhub:module]   [1f3f618e-3754-4cd7-a519-27825186f2f0]  startBuild: response=fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v
+2026-05-08T05:46:59.617Z CLI info  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:47:01.003Z CLI info [sdk:service]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:47:19.699Z CLI info [testhub:request-queue-handler]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '68cb0a7a-61ac-41bb-8966-fa2e61d45f6c',
+    integrations: { browserstack: [Object] }
+  }
+} to 13089:0
+2026-05-08T05:47:19.701Z CLI info [testhub:request-queue-handler]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Added the event {
+  event_type: 'TestRunStarted',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '68cb0a7a-61ac-41bb-8966-fa2e61d45f6c',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-08T05:47:19.683Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: undefined,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 13089:0
+2026-05-08T05:47:21.629Z CLI info [testhub:request-queue-handler]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '68cb0a7a-61ac-41bb-8966-fa2e61d45f6c',
+      integrations: {
+        browserstack: {
+          product: 'automate',
+          session_id: '8c32ff970c4be6d225a3fdf10c80f7086ab4d65e',
+          capabilities: {
+            platform: 'LINUX',
+            webStorageEnabled: false,
+            takesScreenshot: true,
+            javascriptEnabled: true,
+            databaseEnabled: false,
+            networkConnectionEnabled: true,
+            locationContextEnabled: false,
+            warnings: {},
+            desired: {
+              platformName: 'Android',
+              'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+              'goog:chromeOptions': {},
+              newCommandTimeout: 0,
+              deviceName: 'Samsung Galaxy S22 Ultra',
+              chromedriverPorts: [ [ 18111, 18121 ] ],
+              automationName: 'UiAutomator2',
+              systemPort: 8201,
+              bundleID: 'com.swaglabsmobileapp',
+              bundleId: 'com.swaglabsmobileapp',
+              skipServerInstallation: true,
+              udid: 'R5CT30ZT2TM',
+              appPackage: 'com.swaglabsmobileapp',
+              appActivity: 'com.swaglabsmobileapp.SplashActivity',
+              nativeWebScreenshot: true,
+              disableSuppressAccessibilityService: true
+            },
+            platformName: 'Android',
+            'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+            'goog:chromeOptions': {},
+            newCommandTimeout: 0,
+            deviceName: 'R5CT30ZT2TM',
+            chromedriverPorts: [ [ 18111, 18121 ] ],
+            automationName: 'UiAutomator2',
+            systemPort: 8201,
+            bundleID: 'com.swaglabsmobileapp',
+            bundleId: 'com.swaglabsmobileapp',
+            skipServerInstallation: true,
+            udid: 'R5CT30ZT2TM',
+            appPackage: 'com.swaglabsmobileapp',
+            appActivity: 'com.swaglabsmobileapp.SplashActivity',
+            nativeWebScreenshot: true,
+            disableSuppressAccessibilityService: true,
+            deviceUDID: 'R5CT30ZT2TM',
+            deviceApiLevel: 31,
+            platformVersion: '12',
+            deviceScreenSize: '1080x2316',
+            deviceScreenDensity: 450,
+            deviceModel: 'SM-S908E',
+            deviceManufacturer: 'samsung',
+            pixelRatio: 2.8125,
+            statBarHeight: 75,
+            viewportRect: { left: 0, top: 75, width: 1080, height: 2031 }
+          },
+          platform: 'Android',
+          platform_version: '12',
+          browser: undefined,
+          browser_version: undefined
+        }
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '68cb0a7a-61ac-41bb-8966-fa2e61d45f6c',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-08T05:47:19.683Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: undefined,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 13089:0
+2026-05-08T05:47:21.632Z CLI info  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T05:47:29.269Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.27.0","test_logs":[],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"68cb0a7a-61ac-41bb-8966-fa2e61d45f6c","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_name":"Swaglabs e2e scenario 111","test_code":"async () => {\n  await LoginPage.loginToApplication()\n\n   \n }","test_location":"test/specs/android/E2Eflow5.spec.js","test_scope":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_scopes":["Swaglabs Order placing flow 2"],"test_started_at":"2026-05-08T05:47:19.683Z","automate_session_name":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2026-05-08T05:47:29.260Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2026-05-08T05:47:29.271Z CLI info [testhub:request-queue-handler]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Added the event {
+  event_type: 'TestRunFinished',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '68cb0a7a-61ac-41bb-8966-fa2e61d45f6c',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'passed',
+    duration_in_ms: 9577,
+    started_at: '2026-05-08T05:47:19.683Z',
+    finished_at: '2026-05-08T05:47:29.260Z',
+    failure: null,
+    failure_type: null,
+    failure_reason: null,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 13089:0
+2026-05-08T05:47:29.629Z CLI info [testhub:request-queue-handler]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '68cb0a7a-61ac-41bb-8966-fa2e61d45f6c',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'passed',
+      duration_in_ms: 9577,
+      started_at: '2026-05-08T05:47:19.683Z',
+      finished_at: '2026-05-08T05:47:29.260Z',
+      failure: null,
+      failure_type: null,
+      failure_reason: null,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 13089:0
+2026-05-08T05:47:29.630Z CLI info  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T05:47:33.402Z CLI info  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:47:33.406Z CLI info  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:47:34.566Z CLI info [testhub:module]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  stopBuild: fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v request={"finished_at":"2026-05-08T05:47:33.401Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:47:34.568Z CLI info  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:47:34.851Z CLI info [TEST REPORTING AND ANALYTICS:module]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Visit https://automation.browserstack.com/builds/fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:47:34.856Z CLI info [main]  [fknu45ad1e8jbacflx5poha1i535ewoqrufdbs3v]  [1f3f618e-3754-4cd7-a519-27825186f2f0]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T05:49:27.760Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Samsung Galaxy S22 Ultra","appium:platformVersion":"12.0","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T05:49:27.761Z CLI info    Should start debug utility: undefined
+2026-05-08T05:49:27.761Z CLI info [testhub:module]   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Starting testhub from 13495:0
+2026-05-08T05:49:27.762Z CLI info   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T05:49:27.763Z CLI info   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T05:49:27.941Z CLI info   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T05:49:27.942Z CLI info   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T05:49:27.942Z CLI info   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T05:49:28.343Z CLI info [testhub:module]   [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  startBuild: response=p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel
+2026-05-08T05:49:28.345Z CLI info  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:49:30.246Z CLI info [sdk:service]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T05:50:00.270Z CLI info [testhub:request-queue-handler]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '8bc9586a-2439-4578-b48e-e3e0028fb61b',
+    integrations: { browserstack: [Object] }
+  }
+} to 13495:0
+2026-05-08T05:50:00.273Z CLI info [testhub:request-queue-handler]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Added the event {
+  event_type: 'TestRunStarted',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '8bc9586a-2439-4578-b48e-e3e0028fb61b',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-08T05:50:00.188Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: undefined,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 13495:0
+2026-05-08T05:50:00.361Z CLI info [testhub:request-queue-handler]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '8bc9586a-2439-4578-b48e-e3e0028fb61b',
+      integrations: {
+        browserstack: {
+          product: 'automate',
+          session_id: '507b881d26124f4244e4c0101bb71150ce43733b',
+          capabilities: {
+            platform: 'LINUX',
+            webStorageEnabled: false,
+            takesScreenshot: true,
+            javascriptEnabled: true,
+            databaseEnabled: false,
+            networkConnectionEnabled: true,
+            locationContextEnabled: false,
+            warnings: {},
+            desired: {
+              platformName: 'Android',
+              'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+              'goog:chromeOptions': {},
+              newCommandTimeout: 0,
+              deviceName: 'Samsung Galaxy S22 Ultra',
+              chromedriverPorts: [ [ 18122, 18132 ] ],
+              automationName: 'UiAutomator2',
+              systemPort: 8202,
+              bundleID: 'com.swaglabsmobileapp',
+              bundleId: 'com.swaglabsmobileapp',
+              skipServerInstallation: true,
+              udid: 'R5CT30ZT61M',
+              appPackage: 'com.swaglabsmobileapp',
+              appActivity: 'com.swaglabsmobileapp.SplashActivity',
+              nativeWebScreenshot: true,
+              disableSuppressAccessibilityService: true
+            },
+            platformName: 'Android',
+            'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+            'goog:chromeOptions': {},
+            newCommandTimeout: 0,
+            deviceName: 'R5CT30ZT61M',
+            chromedriverPorts: [ [ 18122, 18132 ] ],
+            automationName: 'UiAutomator2',
+            systemPort: 8202,
+            bundleID: 'com.swaglabsmobileapp',
+            bundleId: 'com.swaglabsmobileapp',
+            skipServerInstallation: true,
+            udid: 'R5CT30ZT61M',
+            appPackage: 'com.swaglabsmobileapp',
+            appActivity: 'com.swaglabsmobileapp.SplashActivity',
+            nativeWebScreenshot: true,
+            disableSuppressAccessibilityService: true,
+            deviceUDID: 'R5CT30ZT61M',
+            deviceApiLevel: 31,
+            platformVersion: '12',
+            deviceScreenSize: '1080x2316',
+            deviceScreenDensity: 450,
+            deviceModel: 'SM-S908E',
+            deviceManufacturer: 'samsung',
+            pixelRatio: 2.8125,
+            statBarHeight: 75,
+            viewportRect: { left: 0, top: 75, width: 1080, height: 2031 }
+          },
+          platform: 'Android',
+          platform_version: '12',
+          browser: undefined,
+          browser_version: undefined
+        }
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '8bc9586a-2439-4578-b48e-e3e0028fb61b',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-08T05:50:00.188Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: undefined,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 13495:0
+2026-05-08T05:50:00.363Z CLI info  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T05:50:09.573Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.27.0","test_logs":[],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"8bc9586a-2439-4578-b48e-e3e0028fb61b","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_name":"Swaglabs e2e scenario 111","test_code":"async () => {\n  await LoginPage.loginToApplication()\n\n   \n }","test_location":"test/specs/android/E2Eflow5.spec.js","test_scope":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_scopes":["Swaglabs Order placing flow 2"],"test_started_at":"2026-05-08T05:50:00.188Z","automate_session_name":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2026-05-08T05:50:09.551Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2026-05-08T05:50:09.575Z CLI info [testhub:request-queue-handler]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Added the event {
+  event_type: 'TestRunFinished',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '8bc9586a-2439-4578-b48e-e3e0028fb61b',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'passed',
+    duration_in_ms: 9363,
+    started_at: '2026-05-08T05:50:00.188Z',
+    finished_at: '2026-05-08T05:50:09.551Z',
+    failure: null,
+    failure_type: null,
+    failure_reason: null,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 13495:0
+2026-05-08T05:50:10.364Z CLI info [testhub:request-queue-handler]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '8bc9586a-2439-4578-b48e-e3e0028fb61b',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'passed',
+      duration_in_ms: 9363,
+      started_at: '2026-05-08T05:50:00.188Z',
+      finished_at: '2026-05-08T05:50:09.551Z',
+      failure: null,
+      failure_type: null,
+      failure_reason: null,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 13495:0
+2026-05-08T05:50:10.365Z CLI info  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T05:50:15.240Z CLI info  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T05:50:15.249Z CLI info  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T05:50:16.334Z CLI info [testhub:module]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  stopBuild: p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel request={"finished_at":"2026-05-08T05:50:15.240Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T05:50:16.337Z CLI info  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T05:50:16.627Z CLI info [TEST REPORTING AND ANALYTICS:module]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Visit https://automation.browserstack.com/builds/p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel to view build report, insights, and many more debugging information all at one place!
+2026-05-08T05:50:16.784Z CLI info [main]  [p0rn61z7egz16f1xn9nddenghxgdfunkutopsfel]  [40ae08b9-3f5f-41e5-bd61-1d6aab7554fe]  Received graceful signal termination (SIGTERM), performing cleanup
+2026-05-08T06:27:49.910Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Samsung Galaxy S22 Ultra","appium:platformVersion":"12.0","appium:app":"bs://8a49ee74326c14fe1573ec170689722c0bee468b","appium:automationName":"UiAutomator2","wdioService":"9.27.0"}],"isNonBstackA11yWDIO":false,"accessibility":null,"testObservability":true,"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2026-05-08T06:27:49.911Z CLI info    Should start debug utility: undefined
+2026-05-08T06:27:49.911Z CLI info [testhub:module]   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Starting testhub from 15359:0
+2026-05-08T06:27:49.912Z CLI info   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-08T06:27:49.915Z CLI info   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-08T06:27:50.072Z CLI info   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-08T06:27:50.072Z CLI info   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-08T06:27:50.072Z CLI info   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-08T06:27:50.590Z CLI info [testhub:module]   [58f415ba-0a11-4e92-ad29-0d6075290f2f]  startBuild: response=uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau
+2026-05-08T06:27:50.593Z CLI info  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T06:27:51.703Z CLI info [sdk:service]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Driver initialized as primary driver: platformIndex=0
+2026-05-08T06:28:06.924Z CLI info [testhub:request-queue-handler]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '53080b7d-3566-45ad-86a4-6607b22a8430',
+    integrations: { browserstack: [Object] }
+  }
+} to 15359:0
+2026-05-08T06:28:06.927Z CLI info [testhub:request-queue-handler]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Added the event {
+  event_type: 'TestRunStarted',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '53080b7d-3566-45ad-86a4-6607b22a8430',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-08T06:28:06.904Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: undefined,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 15359:0
+2026-05-08T06:28:08.607Z CLI info [testhub:request-queue-handler]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '53080b7d-3566-45ad-86a4-6607b22a8430',
+      integrations: {
+        browserstack: {
+          product: 'automate',
+          session_id: '41fd57cc2cf4bd4a6c302865ce77199e8f38f020',
+          capabilities: {
+            platform: 'LINUX',
+            webStorageEnabled: false,
+            takesScreenshot: true,
+            javascriptEnabled: true,
+            databaseEnabled: false,
+            networkConnectionEnabled: true,
+            locationContextEnabled: false,
+            warnings: {},
+            desired: {
+              platformName: 'Android',
+              'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+              'goog:chromeOptions': {},
+              newCommandTimeout: 0,
+              deviceName: 'Samsung Galaxy S22 Ultra',
+              chromedriverPorts: [ [ 18111, 18121 ] ],
+              automationName: 'UiAutomator2',
+              systemPort: 8201,
+              bundleID: 'com.swaglabsmobileapp',
+              bundleId: 'com.swaglabsmobileapp',
+              skipServerInstallation: true,
+              udid: 'R5CT30ZT2TM',
+              appPackage: 'com.swaglabsmobileapp',
+              appActivity: 'com.swaglabsmobileapp.SplashActivity',
+              nativeWebScreenshot: true,
+              disableSuppressAccessibilityService: true
+            },
+            platformName: 'Android',
+            'bstack:options': { hostName: 'Luckys-MacBook-Air.local' },
+            'goog:chromeOptions': {},
+            newCommandTimeout: 0,
+            deviceName: 'R5CT30ZT2TM',
+            chromedriverPorts: [ [ 18111, 18121 ] ],
+            automationName: 'UiAutomator2',
+            systemPort: 8201,
+            bundleID: 'com.swaglabsmobileapp',
+            bundleId: 'com.swaglabsmobileapp',
+            skipServerInstallation: true,
+            udid: 'R5CT30ZT2TM',
+            appPackage: 'com.swaglabsmobileapp',
+            appActivity: 'com.swaglabsmobileapp.SplashActivity',
+            nativeWebScreenshot: true,
+            disableSuppressAccessibilityService: true,
+            deviceUDID: 'R5CT30ZT2TM',
+            deviceApiLevel: 31,
+            platformVersion: '12',
+            deviceScreenSize: '1080x2316',
+            deviceScreenDensity: 450,
+            deviceModel: 'SM-S908E',
+            deviceManufacturer: 'samsung',
+            pixelRatio: 2.8125,
+            statBarHeight: 75,
+            viewportRect: { left: 0, top: 75, width: 1080, height: 2031 }
+          },
+          platform: 'Android',
+          platform_version: '12',
+          browser: undefined,
+          browser_version: undefined
+        }
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '53080b7d-3566-45ad-86a4-6607b22a8430',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-08T06:28:06.904Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: undefined,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 15359:0
+2026-05-08T06:28:08.608Z CLI info  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T06:28:16.339Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.27.0","test_logs":[],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"53080b7d-3566-45ad-86a4-6607b22a8430","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_name":"Swaglabs e2e scenario 111","test_code":"async () => {\n  await LoginPage.loginToApplication()\n\n   \n }","test_location":"test/specs/android/E2Eflow5.spec.js","test_scope":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_scopes":["Swaglabs Order placing flow 2"],"test_started_at":"2026-05-08T06:28:06.904Z","automate_session_name":"Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2026-05-08T06:28:16.333Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2026-05-08T06:28:16.341Z CLI info [testhub:request-queue-handler]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Added the event {
+  event_type: 'TestRunFinished',
+  test_run: {
+    type: 'test',
+    framework: 'WebdriverIO-mocha',
+    uuid: '53080b7d-3566-45ad-86a4-6607b22a8430',
+    name: 'Swaglabs e2e scenario 111',
+    body: {
+      lang: 'ecmascript',
+      code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+    },
+    identifier: 'Swaglabs e2e scenario 111',
+    scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+    scopes: [ 'Swaglabs Order placing flow 2' ],
+    file_name: 'test/specs/android/E2Eflow5.spec.js',
+    vc_filepath: '',
+    location: 'test/specs/android/E2Eflow5.spec.js',
+    result: 'passed',
+    duration_in_ms: 9429,
+    started_at: '2026-05-08T06:28:06.904Z',
+    finished_at: '2026-05-08T06:28:16.333Z',
+    failure: null,
+    failure_type: null,
+    failure_reason: null,
+    retry_of: null,
+    custom_metadata: undefined,
+    tags: [],
+    customRerunParam: { rerun_name: undefined },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    }
+  },
+  logs: []
+} to 15359:0
+2026-05-08T06:28:16.611Z CLI info [testhub:request-queue-handler]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    test_run: {
+      type: 'test',
+      framework: 'WebdriverIO-mocha',
+      uuid: '53080b7d-3566-45ad-86a4-6607b22a8430',
+      name: 'Swaglabs e2e scenario 111',
+      body: {
+        lang: 'ecmascript',
+        code: 'async () => {\n  await LoginPage.loginToApplication()\n\n   \n }'
+      },
+      identifier: 'Swaglabs e2e scenario 111',
+      scope: 'Swaglabs Order placing flow 2 - Swaglabs e2e scenario 111',
+      scopes: [ 'Swaglabs Order placing flow 2' ],
+      file_name: 'test/specs/android/E2Eflow5.spec.js',
+      vc_filepath: '',
+      location: 'test/specs/android/E2Eflow5.spec.js',
+      result: 'passed',
+      duration_in_ms: 9429,
+      started_at: '2026-05-08T06:28:06.904Z',
+      finished_at: '2026-05-08T06:28:16.333Z',
+      failure: null,
+      failure_type: null,
+      failure_reason: null,
+      retry_of: null,
+      custom_metadata: undefined,
+      tags: [],
+      customRerunParam: { rerun_name: undefined },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false
+      }
+    },
+    logs: []
+  }
+] to 15359:0
+2026-05-08T06:28:16.611Z CLI info  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-08T06:28:18.854Z CLI info  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-08T06:28:18.857Z CLI info  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-08T06:28:19.871Z CLI info [testhub:module]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  stopBuild: uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau request={"finished_at":"2026-05-08T06:28:18.854Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2026-05-08T06:28:19.873Z CLI info  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-08T06:28:20.145Z CLI info [TEST REPORTING AND ANALYTICS:module]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Visit https://automation.browserstack.com/builds/uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau to view build report, insights, and many more debugging information all at one place!
+2026-05-08T06:28:20.147Z CLI info [main]  [uc6ixdjqcnw83l0ct5gwxaddwefgfi16hk0jyiau]  [58f415ba-0a11-4e92-ad29-0d6075290f2f]  Received graceful signal termination (SIGTERM), performing cleanup

@@ -1,0 +1,13 @@
+class iOSCartPage {
+get checkoutButton(){
+return $('~test-CHECKOUT')
+}
+
+async checkOutOperation(){
+await this.checkoutButton.click()
+await browser.pause(2000)
+}
+
+}
+
+export default new iOSCartPage()

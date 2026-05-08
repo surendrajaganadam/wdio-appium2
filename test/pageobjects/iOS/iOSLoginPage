@@ -1,0 +1,25 @@
+class iOSLoginPage{
+
+get inputUsernameField(){
+return $('~test-Username')
+}
+get inputPasswordField(){
+return $('~test-Password')
+}
+
+get loginButton(){
+return $('~test-LOGIN')
+}
+
+async loginToApplication(){
+await this.inputUsernameField.click()
+await browser.pause(1000)
+await this.inputUsernameField.setValue('standard_user')
+await this.inputPasswordField.setValue('secret_sauce')
+await this.loginButton.click()
+await browser.pause(2000)
+}
+
+
+}
+export default new iOSLoginPage()

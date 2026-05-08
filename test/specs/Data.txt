@@ -1,0 +1,77 @@
+MAC Configuration:
+2nd step below:
+
+Xcode Command Line tools
+xcode-select --install
+
+.Homebrew istall 
+
+brew install carthage: dependency Manager for MacOS & iOS 
+
+brew install ideviceinstaller  : this will install app on ur real device
+Error then rerun rm -fr $(brew --repo homebrew/core)
+
+
+npm install -g ios-deploy : tool  : whenever we are getting some error message related to xcode build use below command:
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
+
+syntax for scroll:
+
+await browser.execute('mobile: scroll'{
+strategy: 'accesibility id', classname , -android uiautomator
+selector: 'switches',
+direction: 'down', up , left , right
+})
+
+
+syntax for swipe:
+
+  const el = await $('xpath')
+    const location = await el.getLocation() {x:45, y:20}, 45: pixels from the left , 20 pixels from he right
+    const size = await el.getSize()
+    await browser.execute('mobile: swipeGesture', {
+    left: Math.floor(location.x),
+    top: Math.floor(location.y),
+    width: Math.floor(size.width),
+    height: Math.floor(size.height),
+    direction: 'left',
+    percent: 0.3 0 to 1
+    })
+
+
+    multiple pages : in which define loactors n its methods
+    loginpage --> seperatly 
+    homepage --> 
+    yourcart page --> 
+
+    we will create test in which simply call those methods
+
+    page object mdoel hence --> 2 e2e scenarios we have already automated
+    1st e2e scenatio n let us convert it into POM
+    2nd e2e scneaio n we will convert that scenairo into page object model
+
+LoginPage --> uname, pswd, login button
+HomePage --> addToCart, CartLogo, sideMenuBar, logout
+CartPage --> checkoutbutotn
+InformationPage --> fname, lname, zcode, continuebtn
+OverviewPage --> finishButton, backtohomebtn
+
+
+hooks: pre codnition n post condition as part of this hooks
+before --> Once before tests in that descibre
+beforeEach --> beore evry it
+after once after all tghe tests in describe got executed
+afterEach --> after ervery it
+
+wdio confi file --> hooks concepts --> 
+what is the difference be/w hook n this hooks??
+
+
+can we have hooks in 2 places??? Yes we will see it in thios or next lecture
+
+afterTest hook: just check the statis if it is apss dont capture screenshot
+
+BS appPath: 
+bs://8a49ee74326c14fe1573ec170689722c0bee468b
+

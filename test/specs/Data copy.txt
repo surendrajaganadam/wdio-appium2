@@ -1,0 +1,18 @@
+MAC Configuration:
+2nd step below:
+
+Xcode Command Line tools
+xcode-select --install
+
+.Homebrew istall 
+
+brew install carthage: dependency Manager for MacOS & iOS 
+
+brew install ideviceinstaller  : this will install app on ur real device
+Error then rerun rm -fr $(brew --repo homebrew/core)
+
+
+npm install -g ios-deploy : tool  : whenever we are getting some error message related to xcode build use below command:
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
+
